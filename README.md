@@ -2,10 +2,10 @@
 
 **`Full Stack Developer | Backend Developer`**
 
-I'm a Full-Stack Developer with a strong focus on backend development, building robust web applications using **NodeJS**, **TypeScript**, and **Laravel**. Experienced in RESTful API integration, database management (MySQL, MariaDB), and version control with Git/GitHub.
+I'm a Full-Stack Developer with a strong focus on backend development, building robust web applications using **NodeJS**, **TypeScript**, **Php**, and **Laravel**. Experienced in RESTful API integration, database management (MySQL, MariaDB), and version control with Git/GitHub.
 
 <p align="left">
-  <a href="https://github.com/Vikkinq" target="_blank">
+  <a href="https://github.com/cleo-angelo-pe" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vikkinq?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cleo-angelo-pe/" target="_blank">
@@ -14,7 +14,7 @@ I'm a Full-Stack Developer with a strong focus on backend development, building 
   <a href="https://cleoangelope.vercel.app/" target="_blank">
     <img alt="portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/Cape/" target="_blank">
+  <a href="https://facebook.com/CA PE/" target="_blank">
     <img alt="facebook" title="Facebook Profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
