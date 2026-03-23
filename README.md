@@ -8,7 +8,7 @@ I'm a Full-Stack Developer with a strong focus on backend development, building 
   <a href="https://github.com/Vikkinq" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vikkinq?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/fsblancaflor/" target="_blank">
+  <a href="https://www.linkedin.com/in/cleo-angelo-pe/" target="_blank">
     <img alt="linkedin" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://cleoangelope.vercel.app/" target="_blank">
